@@ -9,11 +9,11 @@ from youtube_search import YoutubeSearch
 import requests
 
 import os
-from missrose import
+from import
 
 bot = Client(
     'MissRose',
-    bot_token = Config.BOT_TOKEN,
+    bot_token = .BOT_TOKEN,
     api_id = Config.API_ID,
     api_hash = Config.API_HASH
 )
